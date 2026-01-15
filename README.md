@@ -105,8 +105,3 @@ Author
 
 Created by Kabir Singh as a personalized premium birthday website.
 
----
-
-If you want, I can **also make a short “setup guide with screenshots”** version of this README that you can **send to anyone**, so they can open and customize the website easily without touching code.  
-
-Do you want me to create that too?
