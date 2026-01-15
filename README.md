@@ -103,5 +103,5 @@ This project is for personal use only. Do not redistribute without permission.
 
 Author
 
-Created by Kabir Singh as a personalized premium birthday website.
+Created by ᚚ 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 🃏🥀 as a personalized premium birthday website.
 
